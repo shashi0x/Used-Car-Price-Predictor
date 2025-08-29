@@ -1,0 +1,2115 @@
+{
+  "@context": "https://schema.org/",
+  "@graph": [
+    {
+      "@type": "ItemList",
+      "itemListElement": [
+        {
+          "@type": "Car",
+          "name": "2022 Used Porsche Cayenne in Delhi",
+          "alternatename": "2022 Second Hand Porsche Cayenne in Delhi",
+          "model": "Cayenne",
+          "vehicleModelDate": "2022",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "000000000zyq8rbph",
+          "position": 1,
+          "url": "https://www.carwale.com/used/delhi/porsche-cayenne/zyq8rbph/",
+          "offers": {
+            "@type": "Offer",
+            "price": "12000000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "Porsche"
+          },
+          "modelDate": "2022",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "42507",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Nimri",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Petrol",
+          "bodyType": "SUV",
+          "seatingCapacity": "5",
+          "numberOfPreviousOwners": "Second Owner",
+          "color": "Black",
+          "vehicleTransmission": "Automatic (TC)",
+          "description": "2022 Second Hand Porsche Cayenne is available at 1.2 Crore in Delhi. Its manufacturer is Porsche. It was made in 2022. Its fuel type is Petrol. It has run for 42,507 km. Its transmission type is Automatic (TC). Its body type is SUV. It has 2 owner. Color of the car is Black.",
+          "disambiguatingDescription": "2022 Porsche Cayenne Platinum Edition [2022-2023] (Second Hand car in Delhi) available at Rs. 1.2 Crore in Delhi",
+          "numberOfDoors": "5",
+          "vehicleSeatingCapacity": "5",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4087537_138111_1_1754643200281.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4087537_138111_2_1754643200628.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4087537_138111_3_1754643200794.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4087537_138111_4_1754643201017.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4087537_138111_5_1754643201218.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4087537_138111_6_1754643201386.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4087537_138111_7_1754643201491.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/AllWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Petrol"
+          },
+          "nextItem": "https://www.carwale.com/used/delhi/mini-cooper/jwl8el8z/"
+        },
+        {
+          "@type": "Car",
+          "name": "2021 Used MINI Cooper in Delhi",
+          "alternatename": "2021 Second Hand MINI Cooper in Delhi",
+          "model": "Cooper [2018-2024]",
+          "vehicleModelDate": "2021",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "000000000jwl8el8z",
+          "position": 2,
+          "url": "https://www.carwale.com/used/delhi/mini-cooper/jwl8el8z/",
+          "offers": {
+            "@type": "Offer",
+            "price": "4650000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "MINI"
+          },
+          "modelDate": "2021",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "19000",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Tilak Nagar",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Petrol",
+          "bodyType": "Hatchback",
+          "seatingCapacity": "4",
+          "numberOfPreviousOwners": "Second Owner ",
+          "color": "Red",
+          "vehicleTransmission": "Automatic (DCT)",
+          "description": "2021 Second Hand MINI Cooper is available at 46.5 Lakh in Delhi. Its manufacturer is MINI. It was made in 2021. Its fuel type is Petrol. It has run for 19,000 km. Its transmission type is Automatic (DCT). Its body type is Hatchback. It has 2 owner. Color of the car is Red.",
+          "disambiguatingDescription": "2021 MINI Cooper S (Second Hand car in Delhi) available at Rs. 46.5 Lakh in Delhi",
+          "numberOfDoors": "3",
+          "vehicleSeatingCapacity": "4",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4084608_18634_1_1754476332980.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4084608_18634_2_1754476333291.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4084608_18634_3_1754476333431.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4084608_18634_4_1754476333601.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4084608_18634_5_1754476333705.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4084608_18634_6_1754476333848.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4084608_18634_7_1754476334055.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/FrontWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Petrol"
+          },
+          "previousItem": "https://www.carwale.com/used/delhi/porsche-cayenne/zyq8rbph/",
+          "nextItem": "https://www.carwale.com/used/delhi/mercedes-benz-s-class/2ezlrvz0/"
+        },
+        {
+          "@type": "Car",
+          "name": "2022 Used Mercedes-Benz S-Class in Delhi",
+          "alternatename": "2022 Second Hand Mercedes-Benz S-Class in Delhi",
+          "model": "S-Class",
+          "vehicleModelDate": "2022",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "0000000002ezlrvz0",
+          "position": 3,
+          "url": "https://www.carwale.com/used/delhi/mercedes-benz-s-class/2ezlrvz0/",
+          "offers": {
+            "@type": "Offer",
+            "price": "11600000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "Mercedes-Benz"
+          },
+          "modelDate": "2022",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "19000",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Naraina",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Diesel",
+          "bodyType": "Sedan",
+          "seatingCapacity": "5",
+          "numberOfPreviousOwners": "First Owner",
+          "color": "White",
+          "vehicleTransmission": "Automatic (TC)",
+          "description": "2022 Second Hand Mercedes-Benz S-Class is available at 1.16 Crore in Delhi. Its manufacturer is Mercedes-Benz. It was made in 2022. Its fuel type is Diesel. It has run for 19,000 km. Its transmission type is Automatic (TC). Its body type is Sedan. It has 1 owner. Color of the car is White.",
+          "disambiguatingDescription": "2022 Mercedes-Benz S-Class S 350d (Second Hand car in Delhi) available at Rs. 1.16 Crore in Delhi",
+          "numberOfDoors": "4",
+          "vehicleSeatingCapacity": "5",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4103142_11508_1_1755673794322.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4103142_11508_2_1755673794532.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4103142_11508_3_1755673794638.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4103142_11508_4_1755673794742.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4103142_11508_5_1755673794852.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4103142_11508_6_1755673795044.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4103142_11508_7_1755673795128.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/AllWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Diesel"
+          },
+          "previousItem": "https://www.carwale.com/used/delhi/mini-cooper/jwl8el8z/",
+          "nextItem": "https://www.carwale.com/used/delhi/land-rover-range-rover-sport/hnmngjfy/"
+        },
+        {
+          "@type": "Car",
+          "name": "2023 Used Land Rover Range Rover Sport in Delhi",
+          "alternatename": "2023 Second Hand Land Rover Range Rover Sport in Delhi",
+          "model": "Range Rover Sport",
+          "vehicleModelDate": "2023",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "000000000hnmngjfy",
+          "position": 4,
+          "url": "https://www.carwale.com/used/delhi/land-rover-range-rover-sport/hnmngjfy/",
+          "offers": {
+            "@type": "Offer",
+            "price": "15000000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "Land Rover"
+          },
+          "modelDate": "2023",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "15000",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "New Rajinder Nagar",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Diesel",
+          "bodyType": "SUV",
+          "seatingCapacity": "5",
+          "numberOfPreviousOwners": "First Owner",
+          "color": "White",
+          "vehicleTransmission": "Automatic (TC)",
+          "description": "2023 Second Hand Land Rover Range Rover Sport is available at 1.5 Crore in Delhi. Its manufacturer is Land Rover. It was made in 2023. Its fuel type is Diesel. It has run for 15,000 km. Its transmission type is Automatic (TC). Its body type is SUV. It has 1 owner. Color of the car is White.",
+          "disambiguatingDescription": "2023 Land Rover Range Rover Sport Autobiography 3.0 Diesel (Second Hand car in Delhi) available at Rs. 1.5 Crore in Delhi",
+          "numberOfDoors": "5",
+          "vehicleSeatingCapacity": "5",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4096582_87465_1_1755416627336.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4096582_87465_2_1755416627485.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4096582_87465_3_1755416627549.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4096582_87465_4_1755416627660.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4096582_87465_5_1755416627775.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4096582_87465_6_1755416627906.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4096582_87465_7_1755416627954.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/AllWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Diesel"
+          },
+          "previousItem": "https://www.carwale.com/used/delhi/mercedes-benz-s-class/2ezlrvz0/",
+          "nextItem": "https://www.carwale.com/used/delhi/mercedes-benz-gla/gjg281u0/"
+        },
+        {
+          "@type": "Car",
+          "name": "2016 Used Mercedes-Benz GLA in Delhi",
+          "alternatename": "2016 Second Hand Mercedes-Benz GLA in Delhi",
+          "model": "GLA [2014-2017]",
+          "vehicleModelDate": "2016",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "000000000gjg281u0",
+          "position": 5,
+          "url": "https://www.carwale.com/used/delhi/mercedes-benz-gla/gjg281u0/",
+          "offers": {
+            "@type": "Offer",
+            "price": "1800000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "Mercedes-Benz"
+          },
+          "modelDate": "2016",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "66000",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Vikaspuri",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Petrol",
+          "bodyType": "SUV",
+          "seatingCapacity": "5",
+          "numberOfPreviousOwners": "Third Owner ",
+          "color": "Grey",
+          "vehicleTransmission": "Automatic",
+          "description": "2016 Second Hand Mercedes-Benz GLA is available at 18 Lakh in Delhi. Its manufacturer is Mercedes-Benz. It was made in 2016. Its fuel type is Petrol. It has run for 66,000 km. Its transmission type is Automatic. Its body type is SUV. It has 3 owner. Color of the car is Grey.",
+          "disambiguatingDescription": "2016 Mercedes-Benz GLA 200 Sport (Second Hand car in Delhi) available at Rs. 18 Lakh in Delhi",
+          "numberOfDoors": "5",
+          "vehicleSeatingCapacity": "5",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4040445_10871_1_1751629607525.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4040445_10871_2_1751629607765.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4040445_10871_3_1751629607875.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4040445_10871_4_1751629607988.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4040445_10871_5_1751629608096.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4040445_10871_6_1751629608190.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4040445_10871_7_1751629608288.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/FrontWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Petrol"
+          },
+          "previousItem": "https://www.carwale.com/used/delhi/land-rover-range-rover-sport/hnmngjfy/",
+          "nextItem": "https://www.carwale.com/used/delhi/mercedes-benz-gls/772celyn/"
+        },
+        {
+          "@type": "Car",
+          "name": "2022 Used Mercedes-Benz GLS in Delhi",
+          "alternatename": "2022 Second Hand Mercedes-Benz GLS in Delhi",
+          "model": "GLS [2020-2024]",
+          "vehicleModelDate": "2022",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "000000000772celyn",
+          "position": 6,
+          "url": "https://www.carwale.com/used/delhi/mercedes-benz-gls/772celyn/",
+          "offers": {
+            "@type": "Offer",
+            "price": "9490000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "Mercedes-Benz"
+          },
+          "modelDate": "2022",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "30000",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Patel Nagar",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Diesel",
+          "bodyType": "SUV",
+          "seatingCapacity": "7",
+          "numberOfPreviousOwners": "First Owner",
+          "color": "White",
+          "vehicleTransmission": "Automatic (TC)",
+          "description": "2022 Second Hand Mercedes-Benz GLS is available at 94.9 Lakh in Delhi. Its manufacturer is Mercedes-Benz. It was made in 2022. Its fuel type is Diesel. It has run for 30,000 km. Its transmission type is Automatic (TC). Its body type is SUV. It has 1 owner. Color of the car is White.",
+          "disambiguatingDescription": "2022 Mercedes-Benz GLS 400d 4MATIC [2020-2023] (Second Hand car in Delhi) available at Rs. 94.9 Lakh in Delhi",
+          "numberOfDoors": "5",
+          "vehicleSeatingCapacity": "7",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4099929_45792_1_1755500167636.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4099929_45792_2_1755500167874.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4099929_45792_3_1755500168011.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4099929_45792_4_1755500168123.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4099929_45792_5_1755500168295.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4099929_45792_6_1755500168469.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4099929_45792_7_1755500168645.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/AllWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Diesel"
+          },
+          "previousItem": "https://www.carwale.com/used/delhi/mercedes-benz-gla/gjg281u0/",
+          "nextItem": "https://www.carwale.com/used/delhi/land-rover-range-rover-sport/xe8a2yd4/"
+        },
+        {
+          "@type": "Car",
+          "name": "2022 Used Land Rover Range Rover Sport in Delhi",
+          "alternatename": "2022 Second Hand Land Rover Range Rover Sport in Delhi",
+          "model": "Range Rover Sport [2018-2022]",
+          "vehicleModelDate": "2022",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "000000000xe8a2yd4",
+          "position": 7,
+          "url": "https://www.carwale.com/used/delhi/land-rover-range-rover-sport/xe8a2yd4/",
+          "offers": {
+            "@type": "Offer",
+            "price": "9900000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "Land Rover"
+          },
+          "modelDate": "2022",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "10000",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Central Kirti Nagar",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Petrol",
+          "bodyType": "SUV",
+          "seatingCapacity": "5",
+          "numberOfPreviousOwners": "First Owner ",
+          "color": "White",
+          "vehicleTransmission": "Automatic (TC)",
+          "description": "2022 Second Hand Land Rover Range Rover Sport is available at 99 Lakh in Delhi. Its manufacturer is Land Rover. It was made in 2022. Its fuel type is Petrol. It has run for 10,000 km. Its transmission type is Automatic (TC). Its body type is SUV. It has 1 owner. Color of the car is White.",
+          "disambiguatingDescription": "2022 Land Rover Range Rover Sport HSE 2.0 Petrol (Second Hand car in Delhi) available at Rs. 99 Lakh in Delhi",
+          "numberOfDoors": "5",
+          "vehicleSeatingCapacity": "5",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4077154_6166_1_1754034863709.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4077154_6166_2_1754034863809.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4077154_6166_3_1754034863877.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4077154_6166_4_1754034863920.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4077154_6166_5_1754034863956.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4077154_6166_6_1754034863989.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4077154_6166_7_1754034864033.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/FourWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Petrol"
+          },
+          "previousItem": "https://www.carwale.com/used/delhi/mercedes-benz-gls/772celyn/",
+          "nextItem": "https://www.carwale.com/used/delhi/jaguar-f-type/nlmvjbt3/"
+        },
+        {
+          "@type": "Car",
+          "name": "2019 Used Jaguar F-type in Delhi",
+          "alternatename": "2019 Second Hand Jaguar F-type in Delhi",
+          "model": "F-Type [2013-2020]",
+          "vehicleModelDate": "2019",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "000000000nlmvjbt3",
+          "position": 8,
+          "url": "https://www.carwale.com/used/delhi/jaguar-f-type/nlmvjbt3/",
+          "offers": {
+            "@type": "Offer",
+            "price": "7975000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "Jaguar"
+          },
+          "modelDate": "2019",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "18000",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Rajouri Garden",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Petrol",
+          "bodyType": "Coupe",
+          "seatingCapacity": "2",
+          "numberOfPreviousOwners": "First Owner",
+          "color": "White",
+          "vehicleTransmission": "Automatic",
+          "description": "2019 Second Hand Jaguar F-type is available at 79.75 Lakh in Delhi. Its manufacturer is Jaguar. It was made in 2019. Its fuel type is Petrol. It has run for 18,000 km. Its transmission type is Automatic. Its body type is Coupe. It has 1 owner. Color of the car is White.",
+          "disambiguatingDescription": "2019 Jaguar F-Type Coupe (Second Hand car in Delhi) available at Rs. 79.75 Lakh in Delhi",
+          "numberOfDoors": "2",
+          "vehicleSeatingCapacity": "2",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4081943_6167_1_1755336684813.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4081943_6167_2_1755336685006.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4081943_6167_3_1755336685127.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4081943_6167_4_1755336685230.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4081943_6167_5_1755336685335.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4081943_6167_6_1755336685440.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4081943_6167_7_1755336685549.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/RearWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Petrol"
+          },
+          "previousItem": "https://www.carwale.com/used/delhi/land-rover-range-rover-sport/xe8a2yd4/",
+          "nextItem": "https://www.carwale.com/used/delhi/maruti-suzuki-s-cross/cxqw568g/"
+        },
+        {
+          "@type": "Car",
+          "name": "2022 Used Maruti Suzuki S-Cross in Delhi",
+          "alternatename": "2022 Second Hand Maruti Suzuki S-Cross in Delhi",
+          "model": "S-Cross 2020",
+          "vehicleModelDate": "2022",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "000000000cxqw568g",
+          "position": 9,
+          "url": "https://www.carwale.com/used/delhi/maruti-suzuki-s-cross/cxqw568g/",
+          "offers": {
+            "@type": "Offer",
+            "price": "820000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "Maruti Suzuki"
+          },
+          "modelDate": "2022",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "57174",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Dwarka",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Petrol",
+          "bodyType": "SUV",
+          "seatingCapacity": "5",
+          "numberOfPreviousOwners": "First Owner",
+          "color": "Others",
+          "vehicleTransmission": "Manual",
+          "description": "2022 Second Hand Maruti Suzuki S-Cross is available at 8.2 Lakh in Delhi. Its manufacturer is Maruti Suzuki. It was made in 2022. Its fuel type is Petrol. It has run for 57,174 km. Its transmission type is Manual. Its body type is SUV. It has 1 owner. Color of the car is Others.",
+          "disambiguatingDescription": "2022 Maruti Suzuki S-Cross 2020 Zeta (Second Hand car in Delhi) available at Rs. 8.2 Lakh in Delhi",
+          "numberOfDoors": "5",
+          "vehicleSeatingCapacity": "5",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4037381_140658_1_1751452090003.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4037381_140658_2_1751452090154.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4037381_140658_3_1751452090394.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4037381_140658_4_1751452090593.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4037381_140658_5_1751452090788.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4037381_140658_6_1751452090978.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4037381_140658_7_1751452091217.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/FrontWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Petrol"
+          },
+          "previousItem": "https://www.carwale.com/used/delhi/jaguar-f-type/nlmvjbt3/",
+          "nextItem": "https://www.carwale.com/used/delhi/toyota-corolla-altis/l8lhp62g/"
+        },
+        {
+          "@type": "Car",
+          "name": "2019 Used Toyota Corolla Altis in Delhi",
+          "alternatename": "2019 Second Hand Toyota Corolla Altis in Delhi",
+          "model": "Corolla Altis [2014-2017]",
+          "vehicleModelDate": "2019",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "000000000l8lhp62g",
+          "position": 10,
+          "url": "https://www.carwale.com/used/delhi/toyota-corolla-altis/l8lhp62g/",
+          "offers": {
+            "@type": "Offer",
+            "price": "1225000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "Toyota"
+          },
+          "modelDate": "2019",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "62036",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Karol Bagh",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Petrol",
+          "bodyType": "Sedan",
+          "seatingCapacity": "5",
+          "numberOfPreviousOwners": "First Owner",
+          "color": "White",
+          "vehicleTransmission": "Automatic (CVT)",
+          "description": "2019 Second Hand Toyota Corolla Altis is available at 12.25 Lakh in Delhi. It is a certified car. Its manufacturer is Toyota. It was made in 2019. Its fuel type is Petrol. It has run for 62,036 km. Its transmission type is Automatic (CVT). Its body type is Sedan. It has 1 owner. Color of the car is White.",
+          "disambiguatingDescription": "2019 Toyota Corolla Altis VL AT Petrol (Second Hand car in Delhi) available at Rs. 12.25 Lakh in Delhi",
+          "numberOfDoors": "4",
+          "vehicleSeatingCapacity": "5",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4090263_46575_1_1754891931908.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4090263_46575_2_1754846349859.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4090263_46575_3_1754846349959.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4090263_46575_0_1756272555933.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4090263_46575_4_1754846350126.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4090263_46575_5_1754846350278.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4090263_46575_6_1754891932113.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/FrontWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Petrol"
+          },
+          "previousItem": "https://www.carwale.com/used/delhi/maruti-suzuki-s-cross/cxqw568g/",
+          "nextItem": "https://www.carwale.com/used/delhi/mahindra-scorpio/p1pfo68a/"
+        },
+        {
+          "@type": "Car",
+          "name": "2024 Used Mahindra Scorpio in Delhi",
+          "alternatename": "2024 Second Hand Mahindra Scorpio in Delhi",
+          "model": "Scorpio N",
+          "vehicleModelDate": "2024",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "000000000p1pfo68a",
+          "position": 11,
+          "url": "https://www.carwale.com/used/delhi/mahindra-scorpio/p1pfo68a/",
+          "offers": {
+            "@type": "Offer",
+            "price": "1650000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "Mahindra"
+          },
+          "modelDate": "2024",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "23792",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Ashok Vihar",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Petrol",
+          "bodyType": "SUV",
+          "seatingCapacity": "7",
+          "numberOfPreviousOwners": "First Owner",
+          "color": "Black",
+          "vehicleTransmission": "Manual",
+          "description": "2024 Second Hand Mahindra Scorpio is available at 16.5 Lakh in Delhi. It is a certified car. Its manufacturer is Mahindra. It was made in 2024. Its fuel type is Petrol. It has run for 23,792 km. Its transmission type is Manual. Its body type is SUV. It has 1 owner. Color of the car is Black.",
+          "disambiguatingDescription": "2024 Mahindra Scorpio N Z4 Petrol MT 7 STR [2022] (Second Hand car in Delhi) available at Rs. 16.5 Lakh in Delhi",
+          "numberOfDoors": "5",
+          "vehicleSeatingCapacity": "7",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4060870_25852_1_1753967731907.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4060870_25852_2_1754376769213.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4060870_25852_0_1754376715618.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4060870_25852_3_1754376769426.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4060870_25852_4_1754376769564.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4060870_25852_5_1754376769744.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4060870_25852_6_1754376769886.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/RearWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Petrol"
+          },
+          "previousItem": "https://www.carwale.com/used/delhi/toyota-corolla-altis/l8lhp62g/",
+          "nextItem": "https://www.carwale.com/used/delhi/mahindra-xuv700/2gl01a6x/"
+        },
+        {
+          "@type": "Car",
+          "name": "2022 Used Mahindra XUV700 in Delhi",
+          "alternatename": "2022 Second Hand Mahindra XUV700 in Delhi",
+          "model": "XUV700",
+          "vehicleModelDate": "2022",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "0000000002gl01a6x",
+          "position": 12,
+          "url": "https://www.carwale.com/used/delhi/mahindra-xuv700/2gl01a6x/",
+          "offers": {
+            "@type": "Offer",
+            "price": "2175000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "Mahindra"
+          },
+          "modelDate": "2022",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "19217",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Ashok Vihar",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Diesel",
+          "bodyType": "SUV",
+          "seatingCapacity": "7",
+          "numberOfPreviousOwners": "First Owner",
+          "color": "Silver",
+          "vehicleTransmission": "Automatic (TC)",
+          "description": "2022 Second Hand Mahindra XUV700 is available at 21.75 Lakh in Delhi. It is a certified car. Its manufacturer is Mahindra. It was made in 2022. Its fuel type is Diesel. It has run for 19,217 km. Its transmission type is Automatic (TC). Its body type is SUV. It has 1 owner. Color of the car is Silver.",
+          "disambiguatingDescription": "2022 Mahindra XUV700 AX 7 Diesel  AT Luxury Pack 7 STR [2021] (Second Hand car in Delhi) available at Rs. 21.75 Lakh in Delhi",
+          "numberOfDoors": "5",
+          "vehicleSeatingCapacity": "7",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4084123_25446_1_1755065112548.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4084123_25446_2_1755065112876.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4084123_25446_0_1755065098689.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4084123_25446_3_1755065112995.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4084123_25446_4_1755065113172.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4084123_25446_5_1755065113231.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4084123_25446_6_1755065113312.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/FrontWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Diesel"
+          },
+          "previousItem": "https://www.carwale.com/used/delhi/mahindra-scorpio/p1pfo68a/",
+          "nextItem": "https://www.carwale.com/used/delhi/mahindra-scorpio/fbc7hbvh/"
+        },
+        {
+          "@type": "Car",
+          "name": "2024 Used Mahindra Scorpio in Delhi",
+          "alternatename": "2024 Second Hand Mahindra Scorpio in Delhi",
+          "model": "Scorpio N",
+          "vehicleModelDate": "2024",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "000000000fbc7hbvh",
+          "position": 13,
+          "url": "https://www.carwale.com/used/delhi/mahindra-scorpio/fbc7hbvh/",
+          "offers": {
+            "@type": "Offer",
+            "price": "1925000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "Mahindra"
+          },
+          "modelDate": "2024",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "15065",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Ashok Vihar",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Petrol",
+          "bodyType": "SUV",
+          "seatingCapacity": "7",
+          "numberOfPreviousOwners": "First Owner",
+          "color": "Black",
+          "vehicleTransmission": "Manual",
+          "description": "2024 Second Hand Mahindra Scorpio is available at 19.25 Lakh in Delhi. It is a certified car. Its manufacturer is Mahindra. It was made in 2024. Its fuel type is Petrol. It has run for 15,065 km. Its transmission type is Manual. Its body type is SUV. It has 1 owner. Color of the car is Black.",
+          "disambiguatingDescription": "2024 Mahindra Scorpio N Z8 L Petrol MT 7 STR [2022] (Second Hand car in Delhi) available at Rs. 19.25 Lakh in Delhi",
+          "numberOfDoors": "5",
+          "vehicleSeatingCapacity": "7",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4084170_25446_1_1755018629923.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4084170_25446_2_1755018630291.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4084170_25446_0_1755018605797.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4084170_25446_3_1755018630451.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4084170_25446_4_1755018630602.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4084170_25446_5_1755018630752.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4084170_25446_6_1755018630901.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/RearWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Petrol"
+          },
+          "previousItem": "https://www.carwale.com/used/delhi/mahindra-xuv700/2gl01a6x/",
+          "nextItem": "https://www.carwale.com/used/delhi/mahindra-thar/fa78ad47/"
+        },
+        {
+          "@type": "Car",
+          "name": "2024 Used Mahindra Thar in Delhi",
+          "alternatename": "2024 Second Hand Mahindra Thar in Delhi",
+          "model": "Thar",
+          "vehicleModelDate": "2024",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "000000000fa78ad47",
+          "position": 14,
+          "url": "https://www.carwale.com/used/delhi/mahindra-thar/fa78ad47/",
+          "offers": {
+            "@type": "Offer",
+            "price": "1490000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "Mahindra"
+          },
+          "modelDate": "2024",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "7710",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Ashok Vihar",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Petrol",
+          "bodyType": "SUV",
+          "seatingCapacity": "4",
+          "numberOfPreviousOwners": "First Owner",
+          "color": "Black",
+          "vehicleTransmission": "Automatic (TC)",
+          "description": "2024 Second Hand Mahindra Thar is available at 14.9 Lakh in Delhi. It is a certified car. Its manufacturer is Mahindra. It was made in 2024. Its fuel type is Petrol. It has run for 7,710 km. Its transmission type is Automatic (TC). Its body type is SUV. It has 1 owner. Color of the car is Black.",
+          "disambiguatingDescription": "2024 Mahindra Thar LX Hard Top Petrol AT RWD (Second Hand car in Delhi) available at Rs. 14.9 Lakh in Delhi",
+          "numberOfDoors": "3",
+          "vehicleSeatingCapacity": "4",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4098310_25446_1_1755353089548.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4098310_25446_2_1755661955756.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4098310_25446_0_1755661891372.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4098310_25446_3_1755661956030.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4098310_25446_4_1755661956160.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4098310_25446_5_1755661956235.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4098310_25446_6_1755661956378.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/RearWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Petrol"
+          },
+          "previousItem": "https://www.carwale.com/used/delhi/mahindra-scorpio/fbc7hbvh/",
+          "nextItem": "https://www.carwale.com/used/delhi/mahindra-scorpio/ukw60f16/"
+        },
+        {
+          "@type": "Car",
+          "name": "2025 Used Mahindra Scorpio in Delhi",
+          "alternatename": "2025 Second Hand Mahindra Scorpio in Delhi",
+          "model": "Scorpio N",
+          "vehicleModelDate": "2025",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "000000000ukw60f16",
+          "position": 15,
+          "url": "https://www.carwale.com/used/delhi/mahindra-scorpio/ukw60f16/",
+          "offers": {
+            "@type": "Offer",
+            "price": "2375000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "Mahindra"
+          },
+          "modelDate": "2025",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "883",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Ashok Vihar",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Petrol",
+          "bodyType": "SUV",
+          "seatingCapacity": "7",
+          "numberOfPreviousOwners": "First Owner",
+          "color": "White",
+          "vehicleTransmission": "Automatic (TC)",
+          "description": "2025 Second Hand Mahindra Scorpio is available at 23.75 Lakh in Delhi. It is a certified car. Its manufacturer is Mahindra. It was made in 2025. Its fuel type is Petrol. It has run for 883 km. Its transmission type is Automatic (TC). Its body type is SUV. It has 1 owner. Color of the car is White.",
+          "disambiguatingDescription": "2025 Mahindra Scorpio N Z8 L Petrol AT 7 STR (Second Hand car in Delhi) available at Rs. 23.75 Lakh in Delhi",
+          "numberOfDoors": "5",
+          "vehicleSeatingCapacity": "7",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4102542_25446_1_1755620078525.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4102542_25446_2_1755786196727.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4102542_25446_0_1755786137310.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4102542_25446_3_1755786196951.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4102542_25446_4_1755786197028.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4102542_25446_5_1755786197109.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4102542_25446_6_1755786197185.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/RearWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Petrol"
+          },
+          "previousItem": "https://www.carwale.com/used/delhi/mahindra-thar/fa78ad47/",
+          "nextItem": "https://www.carwale.com/used/delhi/mahindra-xuv700/jrg1ffx6/"
+        },
+        {
+          "@type": "Car",
+          "name": "2022 Used Mahindra XUV700 in Delhi",
+          "alternatename": "2022 Second Hand Mahindra XUV700 in Delhi",
+          "model": "XUV700",
+          "vehicleModelDate": "2022",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "000000000jrg1ffx6",
+          "position": 16,
+          "url": "https://www.carwale.com/used/delhi/mahindra-xuv700/jrg1ffx6/",
+          "offers": {
+            "@type": "Offer",
+            "price": "2150000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "Mahindra"
+          },
+          "modelDate": "2022",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "36474",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Lajpat Nagar",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Petrol",
+          "bodyType": "SUV",
+          "seatingCapacity": "7",
+          "numberOfPreviousOwners": "First Owner ",
+          "color": "Blue",
+          "vehicleTransmission": "Automatic (TC)",
+          "description": "2022 Second Hand Mahindra XUV700 is available at 21.5 Lakh in Delhi. It is a certified car. Its manufacturer is Mahindra. It was made in 2022. Its fuel type is Petrol. It has run for 36,474 km. Its transmission type is Automatic (TC). Its body type is SUV. It has 1 owner. Color of the car is Blue.",
+          "disambiguatingDescription": "2022 Mahindra XUV700 AX 7 Petrol AT Luxury Pack 7 STR [2021] (Second Hand car in Delhi) available at Rs. 21.5 Lakh in Delhi",
+          "numberOfDoors": "5",
+          "vehicleSeatingCapacity": "7",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4091397_113510_1_1754920465652.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4091397_113510_2_1754920465867.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4091397_113510_0_1755574675155.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4091397_113510_3_1754920465951.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4091397_113510_4_1754920466127.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4091397_113510_5_1754920466257.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4091397_113510_6_1754920466400.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/FrontWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Petrol"
+          },
+          "previousItem": "https://www.carwale.com/used/delhi/mahindra-scorpio/ukw60f16/",
+          "nextItem": "https://www.carwale.com/used/delhi/toyota-innova-crysta/ldhv13it/"
+        },
+        {
+          "@type": "Car",
+          "name": "2019 Used Toyota Innova Crysta in Delhi",
+          "alternatename": "2019 Second Hand Toyota Innova Crysta in Delhi",
+          "model": "Innova Crysta [2016-2020]",
+          "vehicleModelDate": "2019",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "000000000ldhv13it",
+          "position": 17,
+          "url": "https://www.carwale.com/used/delhi/toyota-innova-crysta/ldhv13it/",
+          "offers": {
+            "@type": "Offer",
+            "price": "1475000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "Toyota"
+          },
+          "modelDate": "2019",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "48703",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Ashok Vihar",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Petrol",
+          "bodyType": "SUV",
+          "seatingCapacity": "7",
+          "numberOfPreviousOwners": "First Owner",
+          "color": "Red",
+          "vehicleTransmission": "Automatic",
+          "description": "2019 Second Hand Toyota Innova Crysta is available at 14.75 Lakh in Delhi. It is a certified car. Its manufacturer is Toyota. It was made in 2019. Its fuel type is Petrol. It has run for 48,703 km. Its transmission type is Automatic. Its body type is SUV. It has 1 owner. Color of the car is Red.",
+          "disambiguatingDescription": "2019 Toyota Innova Crysta 2.7 GX AT 7 STR [2016-2020] (Second Hand car in Delhi) available at Rs. 14.75 Lakh in Delhi",
+          "numberOfDoors": "5",
+          "vehicleSeatingCapacity": "7",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4084062_25446_1_1755202490547.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4084062_25446_2_1755202490923.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4084062_25446_0_1755202463553.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4084062_25446_3_1755202490999.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4084062_25446_4_1755202491175.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4084062_25446_5_1755202491280.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4084062_25446_6_1755202491412.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/RearWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Petrol"
+          },
+          "previousItem": "https://www.carwale.com/used/delhi/mahindra-xuv700/jrg1ffx6/",
+          "nextItem": "https://www.carwale.com/used/delhi/tata-harrier/geoh0plc/"
+        },
+        {
+          "@type": "Car",
+          "name": "2023 Used Tata Harrier in Delhi",
+          "alternatename": "2023 Second Hand Tata Harrier in Delhi",
+          "model": "Harrier",
+          "vehicleModelDate": "2023",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "000000000geoh0plc",
+          "position": 18,
+          "url": "https://www.carwale.com/used/delhi/tata-harrier/geoh0plc/",
+          "offers": {
+            "@type": "Offer",
+            "price": "2300000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "Tata"
+          },
+          "modelDate": "2023",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "5995",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Kirti Nagar",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Diesel",
+          "bodyType": "SUV",
+          "seatingCapacity": "5",
+          "numberOfPreviousOwners": "First Owner ",
+          "color": "Black",
+          "vehicleTransmission": "Automatic (TC)",
+          "description": "2023 Second Hand Tata Harrier is available at 23 Lakh in Delhi. It is a certified car. Its manufacturer is Tata. It was made in 2023. Its fuel type is Diesel. It has run for 5,995 km. Its transmission type is Automatic (TC). Its body type is SUV. It has 1 owner. Color of the car is Black.",
+          "disambiguatingDescription": "2023 Tata Harrier Fearless Dark Edition AT (Second Hand car in Delhi) available at Rs. 23 Lakh in Delhi",
+          "numberOfDoors": "5",
+          "vehicleSeatingCapacity": "5",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4108618_7934_1_1755951299505.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4108618_7934_2_1755951299690.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4108618_7934_3_1755951299767.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4108618_7934_0_1756096428266.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4108618_7934_4_1755951299923.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4108618_7934_5_1755951300039.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4108618_7934_6_1755951300190.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/FrontWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Diesel"
+          },
+          "previousItem": "https://www.carwale.com/used/delhi/toyota-innova-crysta/ldhv13it/",
+          "nextItem": "https://www.carwale.com/used/delhi/skoda-slavia/e4n1nnco/"
+        },
+        {
+          "@type": "Car",
+          "name": "2023 Used Skoda Slavia in Delhi",
+          "alternatename": "2023 Second Hand Skoda Slavia in Delhi",
+          "model": "Slavia [2022-2023]",
+          "vehicleModelDate": "2023",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "000000000e4n1nnco",
+          "position": 19,
+          "url": "https://www.carwale.com/used/delhi/skoda-slavia/e4n1nnco/",
+          "offers": {
+            "@type": "Offer",
+            "price": "1340000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "Skoda"
+          },
+          "modelDate": "2023",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "34569",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Kirti Nagar",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Petrol",
+          "bodyType": "Sedan",
+          "seatingCapacity": "5",
+          "numberOfPreviousOwners": "First Owner ",
+          "color": "Blue",
+          "vehicleTransmission": "Automatic (TC)",
+          "description": "2023 Second Hand Skoda Slavia is available at 13.4 Lakh in Delhi. It is a certified car. Its manufacturer is Skoda. It was made in 2023. Its fuel type is Petrol. It has run for 34,569 km. Its transmission type is Automatic (TC). Its body type is Sedan. It has 1 owner. Color of the car is Blue.",
+          "disambiguatingDescription": "2023 Skoda Slavia Style 1.0L TSI AT (Second Hand car in Delhi) available at Rs. 13.4 Lakh in Delhi",
+          "numberOfDoors": "4",
+          "vehicleSeatingCapacity": "5",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4108413_7934_1_1755945403417.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4108413_7934_2_1755945403664.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4108413_7934_3_1755945403794.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4108413_7934_0_1755946901464.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4108413_7934_4_1755945403923.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4108413_7934_5_1755945404057.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4108413_7934_6_1755945404219.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/FrontWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Petrol"
+          },
+          "previousItem": "https://www.carwale.com/used/delhi/tata-harrier/geoh0plc/",
+          "nextItem": "https://www.carwale.com/used/delhi/maruti-suzuki-vitara-brezza/umqq2f54/"
+        },
+        {
+          "@type": "Car",
+          "name": "2021 Used Maruti Suzuki Vitara Brezza in Delhi",
+          "alternatename": "2021 Second Hand Maruti Suzuki Vitara Brezza in Delhi",
+          "model": "Vitara Brezza [2020-2022]",
+          "vehicleModelDate": "2021",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "000000000umqq2f54",
+          "position": 20,
+          "url": "https://www.carwale.com/used/delhi/maruti-suzuki-vitara-brezza/umqq2f54/",
+          "offers": {
+            "@type": "Offer",
+            "price": "650000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "Maruti Suzuki"
+          },
+          "modelDate": "2021",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "53322",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Kirti Nagar",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Petrol",
+          "bodyType": "CompactSuv",
+          "seatingCapacity": "5",
+          "numberOfPreviousOwners": "First Owner ",
+          "color": "Grey",
+          "vehicleTransmission": "Manual",
+          "description": "2021 Second Hand Maruti Suzuki Vitara Brezza is available at 6.5 Lakh in Delhi. It is a certified car. Its manufacturer is Maruti Suzuki. It was made in 2021. Its fuel type is Petrol. It has run for 53,322 km. Its transmission type is Manual. Its body type is CompactSuv. It has 1 owner. Color of the car is Grey.",
+          "disambiguatingDescription": "2021 Maruti Suzuki Vitara Brezza LXi (Second Hand car in Delhi) available at Rs. 6.5 Lakh in Delhi",
+          "numberOfDoors": "5",
+          "vehicleSeatingCapacity": "5",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4090058_7934_1_1754912346580.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4090058_7934_2_1754856633618.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4090058_7934_3_1754856633782.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4090058_7934_0_1754969416279.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4090058_7934_4_1754856633970.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4090058_7934_5_1754856634257.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4090058_7934_6_1754856634508.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/FrontWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Petrol"
+          },
+          "previousItem": "https://www.carwale.com/used/delhi/skoda-slavia/e4n1nnco/",
+          "nextItem": "https://www.carwale.com/used/delhi/hyundai-alcazar/6wz9f84b/"
+        },
+        {
+          "@type": "Car",
+          "name": "2022 Used Hyundai Alcazar in Delhi",
+          "alternatename": "2022 Second Hand Hyundai Alcazar in Delhi",
+          "model": "Alcazar [2021-2023]",
+          "vehicleModelDate": "2022",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "0000000006wz9f84b",
+          "position": 21,
+          "url": "https://www.carwale.com/used/delhi/hyundai-alcazar/6wz9f84b/",
+          "offers": {
+            "@type": "Offer",
+            "price": "1650000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "Hyundai"
+          },
+          "modelDate": "2022",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "46094",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Naraina",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Diesel",
+          "bodyType": "SUV",
+          "seatingCapacity": "7",
+          "numberOfPreviousOwners": "First Owner",
+          "color": "Black",
+          "vehicleTransmission": "Automatic (TC)",
+          "description": "2022 Second Hand Hyundai Alcazar is available at 16.5 Lakh in Delhi. It is a certified car. Its manufacturer is Hyundai. It was made in 2022. Its fuel type is Diesel. It has run for 46,094 km. Its transmission type is Automatic (TC). Its body type is SUV. It has 1 owner. Color of the car is Black.",
+          "disambiguatingDescription": "2022 Hyundai Alcazar Prestige (O) 7 STR 1.5 Diesel AT (Second Hand car in Delhi) available at Rs. 16.5 Lakh in Delhi",
+          "numberOfDoors": "5",
+          "vehicleSeatingCapacity": "7",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4046435_28919_1_1752048244359.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4046435_28919_2_1752225176771.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4046435_28919_0_1752225164884.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4046435_28919_3_1752225176978.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4046435_28919_4_1752225177124.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4046435_28919_5_1752225177301.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4046435_28919_6_1752225177482.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/FrontWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Diesel"
+          },
+          "previousItem": "https://www.carwale.com/used/delhi/maruti-suzuki-vitara-brezza/umqq2f54/",
+          "nextItem": "https://www.carwale.com/used/delhi/toyota-innova-crysta/z3nkejvk/"
+        },
+        {
+          "@type": "Car",
+          "name": "2018 Used Toyota Innova Crysta in Delhi",
+          "alternatename": "2018 Second Hand Toyota Innova Crysta in Delhi",
+          "model": "Innova Crysta [2016-2020]",
+          "vehicleModelDate": "2018",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "000000000z3nkejvk",
+          "position": 22,
+          "url": "https://www.carwale.com/used/delhi/toyota-innova-crysta/z3nkejvk/",
+          "offers": {
+            "@type": "Offer",
+            "price": "1470000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "Toyota"
+          },
+          "modelDate": "2018",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "33639",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Lajpat Nagar",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Petrol",
+          "bodyType": "SUV",
+          "seatingCapacity": "7",
+          "numberOfPreviousOwners": "First Owner",
+          "color": "White",
+          "vehicleTransmission": "Automatic",
+          "description": "2018 Second Hand Toyota Innova Crysta is available at 14.7 Lakh in Delhi. It is a certified car. Its manufacturer is Toyota. It was made in 2018. Its fuel type is Petrol. It has run for 33,639 km. Its transmission type is Automatic. Its body type is SUV. It has 1 owner. Color of the car is White.",
+          "disambiguatingDescription": "2018 Toyota Innova Crysta 2.7 ZX AT 7 STR (Second Hand car in Delhi) available at Rs. 14.7 Lakh in Delhi",
+          "numberOfDoors": "5",
+          "vehicleSeatingCapacity": "7",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4114307_113510_1_1756310609499.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4114307_113510_2_1756310609682.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4114307_113510_3_1756310609778.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4114307_113510_0_1756312715867.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4114307_113510_4_1756310609867.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4114307_113510_5_1756310609986.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4114307_113510_6_1756310610136.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/RearWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Petrol"
+          },
+          "previousItem": "https://www.carwale.com/used/delhi/hyundai-alcazar/6wz9f84b/",
+          "nextItem": "https://www.carwale.com/used/delhi/maruti-suzuki-wagon-r/9oa10l9v/"
+        },
+        {
+          "@type": "Car",
+          "name": "2019 Used Maruti Suzuki Wagon R in Delhi",
+          "alternatename": "2019 Second Hand Maruti Suzuki Wagon R in Delhi",
+          "model": "Wagon R 1.0 [2014-2019]",
+          "vehicleModelDate": "2019",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "0000000009oa10l9v",
+          "position": 23,
+          "url": "https://www.carwale.com/used/delhi/maruti-suzuki-wagon-r/9oa10l9v/",
+          "offers": {
+            "@type": "Offer",
+            "price": "450000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "Maruti Suzuki"
+          },
+          "modelDate": "2019",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "76206",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Rajapur",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Petrol",
+          "bodyType": "Hatchback",
+          "seatingCapacity": "5",
+          "numberOfPreviousOwners": "First Owner",
+          "color": "White",
+          "vehicleTransmission": "Automatic (AMT)",
+          "description": "2019 Second Hand Maruti Suzuki Wagon R is available at 4.5 Lakh in Delhi. It is a certified car. Its manufacturer is Maruti Suzuki. It was made in 2019. Its fuel type is Petrol. It has run for 76,206 km. Its transmission type is Automatic (AMT). Its body type is Hatchback. It has 1 owner. Color of the car is White.",
+          "disambiguatingDescription": "2019 Maruti Suzuki Wagon R 1.0 VXI AMT (Second Hand car in Delhi) available at Rs. 4.5 Lakh in Delhi",
+          "numberOfDoors": "5",
+          "vehicleSeatingCapacity": "5",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4078871_148599_1_1755056718010.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4078871_148599_2_1754127206572.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4078871_148599_3_1754127206695.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4078871_148599_0_1755059998239.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4078871_148599_4_1754127206747.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4078871_148599_5_1754127206864.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4078871_148599_6_1754127206904.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/FrontWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Petrol"
+          },
+          "previousItem": "https://www.carwale.com/used/delhi/toyota-innova-crysta/z3nkejvk/",
+          "nextItem": "https://www.carwale.com/used/delhi/renault-kwid/ewq9qmtg/"
+        },
+        {
+          "@type": "Car",
+          "name": "2023 Used Renault Kwid in Delhi",
+          "alternatename": "2023 Second Hand Renault Kwid in Delhi",
+          "model": "Kwid [2022-2023]",
+          "vehicleModelDate": "2023",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "000000000ewq9qmtg",
+          "position": 24,
+          "url": "https://www.carwale.com/used/delhi/renault-kwid/ewq9qmtg/",
+          "offers": {
+            "@type": "Offer",
+            "price": "475000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "Renault"
+          },
+          "modelDate": "2023",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "22250",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Rajapur",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Petrol",
+          "bodyType": "Hatchback",
+          "seatingCapacity": "5",
+          "numberOfPreviousOwners": "First Owner",
+          "color": "Blue",
+          "vehicleTransmission": "Automatic (AMT)",
+          "description": "2023 Second Hand Renault Kwid is available at 4.75 Lakh in Delhi. It is a certified car. Its manufacturer is Renault. It was made in 2023. Its fuel type is Petrol. It has run for 22,250 km. Its transmission type is Automatic (AMT). Its body type is Hatchback. It has 1 owner. Color of the car is Blue.",
+          "disambiguatingDescription": "2023 Renault Kwid CLIMBER AMT (Second Hand car in Delhi) available at Rs. 4.75 Lakh in Delhi",
+          "numberOfDoors": "5",
+          "vehicleSeatingCapacity": "5",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4078858_148599_1_1755057182845.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4078858_148599_2_1754127339347.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4078858_148599_3_1754127339489.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4078858_148599_0_1755059512377.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4078858_148599_4_1754127339585.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4078858_148599_5_1754127339693.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4078858_148599_6_1754127339833.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/FrontWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Petrol"
+          },
+          "previousItem": "https://www.carwale.com/used/delhi/maruti-suzuki-wagon-r/9oa10l9v/",
+          "nextItem": "https://www.carwale.com/used/delhi/ford-endeavour/uq8coqxz/"
+        },
+        {
+          "@type": "Car",
+          "name": "2019 Used Ford Endeavour in Delhi",
+          "alternatename": "2019 Second Hand Ford Endeavour in Delhi",
+          "model": "Endeavour",
+          "vehicleModelDate": "2019",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "000000000uq8coqxz",
+          "position": 25,
+          "url": "https://www.carwale.com/used/delhi/ford-endeavour/uq8coqxz/",
+          "offers": {
+            "@type": "Offer",
+            "price": "2590000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "Ford"
+          },
+          "modelDate": "2019",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "43635",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Karol Bagh",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Diesel",
+          "bodyType": "SUV",
+          "seatingCapacity": "7",
+          "numberOfPreviousOwners": "First Owner",
+          "color": "White",
+          "vehicleTransmission": "Automatic",
+          "description": "2019 Second Hand Ford Endeavour is available at 25.9 Lakh in Delhi. Its manufacturer is Ford. It was made in 2019. Its fuel type is Diesel. It has run for 43,635 km. Its transmission type is Automatic. Its body type is SUV. It has 1 owner. Color of the car is White.",
+          "disambiguatingDescription": "2019 Ford Endeavour Titanium Plus 2.2 4x2 AT (Second Hand car in Delhi) available at Rs. 25.9 Lakh in Delhi",
+          "numberOfDoors": "5",
+          "vehicleSeatingCapacity": "7",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4079873_46575_1_1754206512052.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4079873_46575_2_1756274657343.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4079873_46575_3_1754206512211.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4079873_46575_4_1754206512355.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4079873_46575_5_1754206512489.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4079873_46575_6_1754206512622.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4079873_46575_7_1754206512752.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/RearWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Diesel"
+          },
+          "previousItem": "https://www.carwale.com/used/delhi/renault-kwid/ewq9qmtg/",
+          "nextItem": "https://www.carwale.com/used/delhi/mercedes-benz-c-class/jxt4i53o/"
+        },
+        {
+          "@type": "Car",
+          "name": "2020 Used Mercedes-Benz C-Class in Delhi",
+          "alternatename": "2020 Second Hand Mercedes-Benz C-Class in Delhi",
+          "model": "C-Class [2018-2022]",
+          "vehicleModelDate": "2020",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "000000000jxt4i53o",
+          "position": 26,
+          "url": "https://www.carwale.com/used/delhi/mercedes-benz-c-class/jxt4i53o/",
+          "offers": {
+            "@type": "Offer",
+            "price": "3400000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "Mercedes-Benz"
+          },
+          "modelDate": "2020",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "38750",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Nimri",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Petrol",
+          "bodyType": "Sedan",
+          "seatingCapacity": "5",
+          "numberOfPreviousOwners": "First Owner",
+          "color": "Blue",
+          "vehicleTransmission": "Automatic (TC)",
+          "description": "2020 Second Hand Mercedes-Benz C-Class is available at 34 Lakh in Delhi. Its manufacturer is Mercedes-Benz. It was made in 2020. Its fuel type is Petrol. It has run for 38,750 km. Its transmission type is Automatic (TC). Its body type is Sedan. It has 1 owner. Color of the car is Blue.",
+          "disambiguatingDescription": "2020 Mercedes-Benz C-Class C200 Progressive (Second Hand car in Delhi) available at Rs. 34 Lakh in Delhi",
+          "numberOfDoors": "4",
+          "vehicleSeatingCapacity": "5",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4063770_138111_1_1753450086811.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4063770_138111_2_1753450086997.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4063770_138111_3_1753450087131.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4063770_138111_4_1753450087302.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4063770_138111_5_1753450087446.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4063770_138111_6_1753450087658.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4063770_138111_7_1753450087797.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/RearWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Petrol"
+          },
+          "previousItem": "https://www.carwale.com/used/delhi/ford-endeavour/uq8coqxz/",
+          "nextItem": "https://www.carwale.com/used/delhi/bmw-x1/isplgi8p/"
+        },
+        {
+          "@type": "Car",
+          "name": "2020 Used BMW X1 in Delhi",
+          "alternatename": "2020 Second Hand BMW X1 in Delhi",
+          "model": "X1 [2020-2023]",
+          "vehicleModelDate": "2020",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "000000000isplgi8p",
+          "position": 27,
+          "url": "https://www.carwale.com/used/delhi/bmw-x1/isplgi8p/",
+          "offers": {
+            "@type": "Offer",
+            "price": "2600000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "BMW"
+          },
+          "modelDate": "2020",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "47802",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Nimri",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Petrol",
+          "bodyType": "SUV",
+          "seatingCapacity": "5",
+          "numberOfPreviousOwners": "First Owner",
+          "color": "White",
+          "vehicleTransmission": "Automatic (DCT)",
+          "description": "2020 Second Hand BMW X1 is available at 26 Lakh in Delhi. Its manufacturer is BMW. It was made in 2020. Its fuel type is Petrol. It has run for 47,802 km. Its transmission type is Automatic (DCT). Its body type is SUV. It has 1 owner. Color of the car is White.",
+          "disambiguatingDescription": "2020 BMW X1 sDrive20i SportX (Second Hand car in Delhi) available at Rs. 26 Lakh in Delhi",
+          "numberOfDoors": "5",
+          "vehicleSeatingCapacity": "5",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4087376_138111_1_1754638602557.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4087376_138111_2_1754638602859.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4087376_138111_3_1754638603026.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4087376_138111_4_1754638603159.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4087376_138111_5_1754638603408.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4087376_138111_6_1754638603571.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4087376_138111_7_1754638603729.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/FrontWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Petrol"
+          },
+          "previousItem": "https://www.carwale.com/used/delhi/mercedes-benz-c-class/jxt4i53o/",
+          "nextItem": "https://www.carwale.com/used/delhi/mahindra-xuv300/dcouhog7/"
+        },
+        {
+          "@type": "Car",
+          "name": "2021 Used Mahindra XUV300 in Delhi",
+          "alternatename": "2021 Second Hand Mahindra XUV300 in Delhi",
+          "model": "XUV300 [2019-2024]",
+          "vehicleModelDate": "2021",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "000000000dcouhog7",
+          "position": 28,
+          "url": "https://www.carwale.com/used/delhi/mahindra-xuv300/dcouhog7/",
+          "offers": {
+            "@type": "Offer",
+            "price": "750000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "Mahindra"
+          },
+          "modelDate": "2021",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "56924",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Lajpat Nagar",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Petrol",
+          "bodyType": "CompactSuv",
+          "seatingCapacity": "5",
+          "numberOfPreviousOwners": "First Owner ",
+          "color": "Silver",
+          "vehicleTransmission": "Manual",
+          "description": "2021 Second Hand Mahindra XUV300 is available at 7.5 Lakh in Delhi. Its manufacturer is Mahindra. It was made in 2021. Its fuel type is Petrol. It has run for 56,924 km. Its transmission type is Manual. Its body type is CompactSuv. It has 1 owner. Color of the car is Silver.",
+          "disambiguatingDescription": "2021 Mahindra XUV300 W6 1.2 Petrol (Second Hand car in Delhi) available at Rs. 7.5 Lakh in Delhi",
+          "numberOfDoors": "5",
+          "vehicleSeatingCapacity": "5",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4075260_113510_1_1753901738299.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4075260_113510_2_1753901738483.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4075260_113510_3_1753901738591.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4075260_113510_4_1753901738752.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4075260_113510_5_1753901738902.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4075260_113510_6_1753901739041.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4075260_113510_7_1753901739166.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/FrontWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Petrol"
+          },
+          "previousItem": "https://www.carwale.com/used/delhi/bmw-x1/isplgi8p/",
+          "nextItem": "https://www.carwale.com/used/delhi/bmw-x1/pg59o81s/"
+        },
+        {
+          "@type": "Car",
+          "name": "2023 Used BMW X1 in Delhi",
+          "alternatename": "2023 Second Hand BMW X1 in Delhi",
+          "model": "X1",
+          "vehicleModelDate": "2023",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "000000000pg59o81s",
+          "position": 29,
+          "url": "https://www.carwale.com/used/delhi/bmw-x1/pg59o81s/",
+          "offers": {
+            "@type": "Offer",
+            "price": "4300000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "BMW"
+          },
+          "modelDate": "2023",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "27237",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Nimri",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Diesel",
+          "bodyType": "SUV",
+          "seatingCapacity": "5",
+          "numberOfPreviousOwners": "First Owner",
+          "color": "White",
+          "vehicleTransmission": "Automatic (DCT)",
+          "description": "2023 Second Hand BMW X1 is available at 43 Lakh in Delhi. Its manufacturer is BMW. It was made in 2023. Its fuel type is Diesel. It has run for 27,237 km. Its transmission type is Automatic (DCT). Its body type is SUV. It has 1 owner. Color of the car is White.",
+          "disambiguatingDescription": "2023 BMW X1 sDrive18d M Sport (Second Hand car in Delhi) available at Rs. 43 Lakh in Delhi",
+          "numberOfDoors": "5",
+          "vehicleSeatingCapacity": "5",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4099777_138111_1_1755687019795.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4099777_138111_2_1755687020107.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4099777_138111_3_1755687020339.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4099777_138111_4_1755687020479.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4099777_138111_5_1755687020651.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4099777_138111_6_1755687020851.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4099777_138111_7_1755687021040.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/FrontWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Diesel"
+          },
+          "previousItem": "https://www.carwale.com/used/delhi/mahindra-xuv300/dcouhog7/",
+          "nextItem": "https://www.carwale.com/used/delhi/mercedes-benz-c-class/nobaptga/"
+        },
+        {
+          "@type": "Car",
+          "name": "2019 Used Mercedes-Benz C-Class in Delhi",
+          "alternatename": "2019 Second Hand Mercedes-Benz C-Class in Delhi",
+          "model": "C-Class [2018-2022]",
+          "vehicleModelDate": "2019",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "000000000nobaptga",
+          "position": 30,
+          "url": "https://www.carwale.com/used/delhi/mercedes-benz-c-class/nobaptga/",
+          "offers": {
+            "@type": "Offer",
+            "price": "3400000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "Mercedes-Benz"
+          },
+          "modelDate": "2019",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "36000",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Nimri",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Petrol",
+          "bodyType": "Sedan",
+          "seatingCapacity": "5",
+          "numberOfPreviousOwners": "First Owner",
+          "color": "Blue",
+          "vehicleTransmission": "Automatic",
+          "description": "2019 Second Hand Mercedes-Benz C-Class is available at 34 Lakh in Delhi. Its manufacturer is Mercedes-Benz. It was made in 2019. Its fuel type is Petrol. It has run for 36,000 km. Its transmission type is Automatic. Its body type is Sedan. It has 1 owner. Color of the car is Blue.",
+          "disambiguatingDescription": "2019 Mercedes-Benz C-Class C 200 Progressive [2018-2020] (Second Hand car in Delhi) available at Rs. 34 Lakh in Delhi",
+          "numberOfDoors": "4",
+          "vehicleSeatingCapacity": "5",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4102050_138111_1_1755762016954.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4102050_138111_2_1755762017278.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4102050_138111_3_1755762017495.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4102050_138111_4_1755762017684.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4102050_138111_5_1755762017847.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4102050_138111_6_1755762018034.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4102050_138111_7_1755762018259.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/RearWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Petrol"
+          },
+          "previousItem": "https://www.carwale.com/used/delhi/bmw-x1/pg59o81s/",
+          "nextItem": "https://www.carwale.com/used/delhi/toyota-fortuner/do58eq0e/"
+        },
+        {
+          "@type": "Car",
+          "name": "2021 Used Toyota Fortuner in Delhi",
+          "alternatename": "2021 Second Hand Toyota Fortuner in Delhi",
+          "model": "Fortuner",
+          "vehicleModelDate": "2021",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "000000000do58eq0e",
+          "position": 31,
+          "url": "https://www.carwale.com/used/delhi/toyota-fortuner/do58eq0e/",
+          "offers": {
+            "@type": "Offer",
+            "price": "2990000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "Toyota"
+          },
+          "modelDate": "2021",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "55121",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Karol Bagh",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Diesel",
+          "bodyType": "SUV",
+          "seatingCapacity": "7",
+          "numberOfPreviousOwners": "First Owner",
+          "color": "White",
+          "vehicleTransmission": "Manual",
+          "description": "2021 Second Hand Toyota Fortuner is available at 29.9 Lakh in Delhi. Its manufacturer is Toyota. It was made in 2021. Its fuel type is Diesel. It has run for 55,121 km. Its transmission type is Manual. Its body type is SUV. It has 1 owner. Color of the car is White.",
+          "disambiguatingDescription": "2021 Toyota Fortuner 4X2 MT 2.8 Diesel (Second Hand car in Delhi) available at Rs. 29.9 Lakh in Delhi",
+          "numberOfDoors": "5",
+          "vehicleSeatingCapacity": "7",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4080343_46575_1_1754225205328.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4080343_46575_2_1754225205523.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4080343_46575_3_1754225205623.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4080343_46575_4_1754225205738.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4080343_46575_5_1754225205842.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4080343_46575_6_1754225205936.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4080343_46575_7_1754225206083.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/RearWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Diesel"
+          },
+          "previousItem": "https://www.carwale.com/used/delhi/mercedes-benz-c-class/nobaptga/",
+          "nextItem": "https://www.carwale.com/used/delhi/jeep-compass/2eke9f6a/"
+        },
+        {
+          "@type": "Car",
+          "name": "2017 Used Jeep Compass in Delhi",
+          "alternatename": "2017 Second Hand Jeep Compass in Delhi",
+          "model": "Compass [2017-2021]",
+          "vehicleModelDate": "2017",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "0000000002eke9f6a",
+          "position": 32,
+          "url": "https://www.carwale.com/used/delhi/jeep-compass/2eke9f6a/",
+          "offers": {
+            "@type": "Offer",
+            "price": "750000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "Jeep"
+          },
+          "modelDate": "2017",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "71849",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Kirti Nagar",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Diesel",
+          "bodyType": "SUV",
+          "seatingCapacity": "5",
+          "numberOfPreviousOwners": "First Owner",
+          "color": "White",
+          "vehicleTransmission": "Manual",
+          "description": "2017 Second Hand Jeep Compass is available at 7.5 Lakh in Delhi. Its manufacturer is Jeep. It was made in 2017. Its fuel type is Diesel. It has run for 71,849 km. Its transmission type is Manual. Its body type is SUV. It has 1 owner. Color of the car is White.",
+          "disambiguatingDescription": "2017 Jeep Compass Limited 2.0 Diesel [2017-2020] (Second Hand car in Delhi) available at Rs. 7.5 Lakh in Delhi",
+          "numberOfDoors": "5",
+          "vehicleSeatingCapacity": "5",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4074071_7934_1_1753866049403.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4074071_7934_2_1753866049608.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4074071_7934_3_1753866049743.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4074071_7934_4_1753866049897.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4074071_7934_5_1753866050009.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4074071_7934_6_1753866050171.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202507/4074071_7934_7_1753866050266.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/FrontWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Diesel"
+          },
+          "previousItem": "https://www.carwale.com/used/delhi/toyota-fortuner/do58eq0e/",
+          "nextItem": "https://www.carwale.com/used/delhi/ford-ecosport/chzs0uct/"
+        },
+        {
+          "@type": "Car",
+          "name": "2017 Used Ford Ecosport in Delhi",
+          "alternatename": "2017 Second Hand Ford Ecosport in Delhi",
+          "model": "EcoSport [2017-2019]",
+          "vehicleModelDate": "2017",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "vehicleIdentificationNumber": "000000000chzs0uct",
+          "position": 33,
+          "url": "https://www.carwale.com/used/delhi/ford-ecosport/chzs0uct/",
+          "offers": {
+            "@type": "Offer",
+            "price": "525000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "Brand": {
+            "@type": "Brand",
+            "name": "Ford"
+          },
+          "modelDate": "2017",
+          "mileageFromOdometer": {
+            "@type": "QuantitativeValue",
+            "value": "62679",
+            "unitCode": "KMT"
+          },
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Rajapur",
+              "addressLocality": "Delhi",
+              "addressRegion": "Delhi"
+            }
+          },
+          "fuelType": "Diesel",
+          "bodyType": "SUV",
+          "seatingCapacity": "5",
+          "numberOfPreviousOwners": "First Owner",
+          "color": "Silver",
+          "vehicleTransmission": "Manual",
+          "description": "2017 Second Hand Ford Ecosport is available at 5.25 Lakh in Delhi. Its manufacturer is Ford. It was made in 2017. Its fuel type is Diesel. It has run for 62,679 km. Its transmission type is Manual. Its body type is SUV. It has 1 owner. Color of the car is Silver.",
+          "disambiguatingDescription": "2017 Ford EcoSport Titanium 1.5L TDCi (Second Hand car in Delhi) available at Rs. 5.25 Lakh in Delhi",
+          "numberOfDoors": "5",
+          "vehicleSeatingCapacity": "5",
+          "image": [
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4078854_148599_1_1755057709848.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4078854_148599_2_1754127513450.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4078854_148599_3_1754127513554.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4078854_148599_4_1754127513687.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4078854_148599_5_1754127513820.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4078854_148599_6_1754127513875.jpg?q=80",
+            "https://imgd.aeplcdn.com/300x225/vimages/202508/4078854_148599_7_1754127513964.jpg?q=80"
+          ],
+          "driveWheelConfiguration": "https://schema.org/FrontWheelDriveConfiguration",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "fuelType": "Diesel"
+          },
+          "previousItem": "https://www.carwale.com/used/delhi/jeep-compass/2eke9f6a/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How many used cars are available in Delhi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "11561 second hand cars are available in Delhi from popular brands such as  Maruti Suzuki, Hyundai, Mahindra, Mercedes-Benz, Honda, Toyota, Tata. There are also 118 certified used cars available in Delhi."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the popular second hand car brands available for used cars in Delhi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": " Maruti Suzuki, Hyundai, Mahindra, Mercedes-Benz, Honda, Toyota, Tata are the popular used car brands in Delhi. Explore all the second hand cars in Delhi at CarWale."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many luxury used cars are available in Delhi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "2254 luxury used cars are available in Delhi from popular brands such as  Mercedes-Benz, BMW, Audi, Toyota, Skoda, Land Rover, Ford etc. You can also check for luxury used cars in <a href='/used/delhi/luxury/' title='Used luxury Cars in Delhi'>Delhi</a> here."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many direct owner second hand cars are available in Delhi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "3736 direct owner 2nd hand cars are available in Delhi."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the starting price of a used car in Delhi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "11561 used cars are available in Delhi starting from Rs. 40,000."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the popular second hand car models in Delhi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": " Creta, Wagon R, Baleno, Scorpio, Innova Crysta, Fortuner, Ertiga are the popular second hand car models in Delhi. "
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the popular cities to buy second hand cars?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Popular cities in India to buy a second hand car are - <a href='/used/mumbai/' title='Used Cars in Mumbai'>Mumbai</a>, <a href='/used/bangalore/' title='Used Cars in Bangalore'>Bangalore</a>, <a href='/used/delhi/' title='Used Cars in Delhi'>Delhi</a>, <a href='/used/pune/' title='Used Cars in Pune'>Pune</a>, <a href='/used/navi-mumbai/' title='Used Cars in Navi Mumbai'>Navi Mumbai</a>, <a href='/used/hyderabad/' title='Used Cars in Hyderabad'>Hyderabad</a>, <a href='/used/ahmedabad/' title='Used Cars in Ahmedabad'>Ahmedabad</a>, <a href='/used/chennai/' title='Used Cars in Chennai'>Chennai</a>, <a href='/used/kolkata/' title='Used Cars in Kolkata'>Kolkata</a>.\n                                       "
+          }
+        }
+      ]
+    }
+  ]
+}
