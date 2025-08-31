@@ -1,12 +1,14 @@
 # Used Car Price Prediction
 
 ## Overview
+
 This project focuses on predicting the prices of used cars by building an end-to-end **data pipeline** and **machine learning model** trained on real-world listings scraped from [CarWale](https://www.carwale.com/).  
 The workflow includes **web scraping**, **data preprocessing**, **feature engineering**, and **deep learning** model training.
 
 ---
 
 ## Project Structure
+
 OLDCAR  
 │  
 ├── data  
@@ -25,6 +27,7 @@ OLDCAR
 
 
 ## Dataset
+
 - **Source:** Scraped from CarWale’s used car listings across **350+ Indian cities**.  
 - **Size:** 8,718 examples.  
 - **Collection Method:**  
@@ -32,6 +35,7 @@ OLDCAR
   - For diversity, 30 listings were scraped from each city’s page instead of paginating deeper.  
 
 ### Dataset Statistics
+
 - **Training set:** 6,000 examples  
 - **Test set:** 2,718 examples  
 - **Mean Price:** ₹19,15,637  
@@ -43,6 +47,7 @@ OLDCAR
 ---
 
 ## Data Preprocessing
+
 - Extracted raw data (HTML → JSON → CSV).  
 - Handled categorical variables by encoding them into numeric values (e.g., body type, transmission type).  
 - Applied **scaling** for numerical stability.  
@@ -50,12 +55,32 @@ OLDCAR
 
 ---
 
+## 🎯 Features & Target
+
+- **Input Features (X):**
+  - `age` → Age of the car (years)  
+  - `brand` → Encoded brand name  
+  - `kmdriven` → Kilometers driven  
+  - `fuelType` → Fuel type (Petrol/Diesel/CNG/Electric etc.)  
+  - `bodyType` → Car body type (SUV, Sedan, Hatchback, etc.)  
+  - `seatCap` → Seating capacity  
+  - `transmission` → Transmission type (Manual/Automatic etc.)  
+  - `owners` → Number of previous owners  
+
+- **Target (Y):**
+  - `price` → Final resale price of the car  
+
+---
+
 ## Modeling
+
 ### 1. Linear Regression (Baseline)
+
 - Tried linear regression first.  
 - Model failed to capture complex relationships in data.  
 
 ### 2. Neural Network (Final Model)
+
 Implemented using **TensorFlow/Keras**:
 
 ```python
@@ -70,6 +95,7 @@ model = Sequential([
     Dense(1, activation='linear')
 ])
 ```
+
 ## Results & Conclusion
 
 * Seen Data MAE: ₹3,23,231
@@ -82,7 +108,9 @@ model = Sequential([
 
 * Key learning: Instead of training one global model, grouping cars (e.g., budget, mid-range, luxury) and training separate models would likely yield better accuracy.
 
+
 #### This demonstrates an important ML lesson: sometimes data segmentation and domain knowledge can be more impactful than just tuning architectures.
+
 
 ## Tech Stack
 
@@ -115,4 +143,5 @@ model = Sequential([
 ## Author
 
 ### Shashi Kumar
+
 **Student | Exploring AI/ML | Interested in practical applications of Machine Learning**
