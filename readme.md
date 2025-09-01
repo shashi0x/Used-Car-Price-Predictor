@@ -55,7 +55,7 @@ OLDCAR
 
 ---
 
-## 🎯 Features & Target
+## Features & Target
 
 - **Input Features (X):**
   - `age` → Age of the car (years)  
