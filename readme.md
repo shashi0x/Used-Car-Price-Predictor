@@ -1,5 +1,7 @@
 # Used Car Price Prediction
 
+(Currently working on an improved version of this project)
+  
 ## Overview
 
 This project focuses on predicting the prices of used cars by building an end-to-end **data pipeline** and **machine learning model** trained on real-world listings scraped from [CarWale](https://www.carwale.com/).  
@@ -9,21 +11,20 @@ The workflow includes **web scraping**, **data preprocessing**, **feature engine
 
 ## Project Structure
 
-OLDCAR  
-│  
-├── data  
-│ ├── CarData.csv # Raw scraped data  
-│ ├── carwale.html # Sample HTML page  
-│ ├── CleanDataNP.csv # Processed numeric dataset  
-│ ├── dataReadme.md # Data documentation  
-│ ├── jsonEx.json # Extracted JSON sample  
-│ └── scrapping.ipynb # Web scraping + data collection  
-│  
-├── model  
-│ |── CleanDataNP.csv # Final preprocessed dataset  
-│ ├── linear.ipynb # Linear regression attempt  
-│ └── neural.ipynb # Neural network model  
-├── readme.md
+
+data/  
+data/CarData.csv # Raw scraped data  
+data/carwale.html # Sample HTML page  
+data/CleanDataNP.csv # Processed numeric dataset  
+data/dataReadme.md # Data documentation  
+data/jsonEx.json # Extracted JSON sample  
+data/scrapping.ipynb # Web scraping + data collection  
+     
+model/  
+model/CleanDataNP.csv # Final preprocessed dataset  
+model/linear.ipynb # Linear regression attempt  
+model/neural.ipynb # Neural network model  
+readme.md
 
 
 ## Dataset
@@ -55,7 +56,7 @@ OLDCAR
 
 ---
 
-## 🎯 Features & Target
+## Features & Target
 
 - **Input Features (X):**
   - `age` → Age of the car (years)  
