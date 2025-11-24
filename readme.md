@@ -18,7 +18,7 @@ data/carwale.html # Sample HTML page
 data/CleanDataNP.csv # Processed numeric dataset  
 data/dataReadme.md # Data documentation  
 data/jsonEx.json # Extracted JSON sample  
-data/scrapping.ipynb # Web scraping + data collection  
+data/scrapping.ipynb # Web scraping + data collection (available locally to me only)
      
 model/  
 model/CleanDataNP.csv # Final preprocessed dataset  
