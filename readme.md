@@ -49,7 +49,7 @@ readme.md
 
 ## Data Preprocessing
 
-- Extracted raw data (HTML → JSON → CSV).  
+- Extracted raw data (HTML -> JSON -> CSV).  
 - Handled categorical variables by encoding them into numeric values (e.g., body type, transmission type).  
 - Applied **scaling** for numerical stability.  
 - Converted dataset to **NumPy arrays** for training.  
@@ -59,17 +59,17 @@ readme.md
 ## Features & Target
 
 - **Input Features (X):**
-  - `age` → Age of the car (years)  
-  - `brand` → Encoded brand name  
-  - `kmdriven` → Kilometers driven  
-  - `fuelType` → Fuel type (Petrol/Diesel/CNG/Electric etc.)  
-  - `bodyType` → Car body type (SUV, Sedan, Hatchback, etc.)  
-  - `seatCap` → Seating capacity  
-  - `transmission` → Transmission type (Manual/Automatic etc.)  
-  - `owners` → Number of previous owners  
+  - `age` = Age of the car (years)  
+  - `brand` = Encoded brand name  
+  - `kmdriven` = Kilometers driven  
+  - `fuelType` = Fuel type (Petrol/Diesel/CNG/Electric etc.)  
+  - `bodyType` = Car body type (SUV, Sedan, Hatchback, etc.)  
+  - `seatCap` = Seating capacity  
+  - `transmission` = Transmission type (Manual/Automatic etc.)  
+  - `owners` = Number of previous owners  
 
 - **Target (Y):**
-  - `price` → Final resale price of the car  
+  - `price` = Final resale price of the car  
 
 ---
 
